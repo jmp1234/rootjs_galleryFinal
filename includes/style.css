@@ -8,10 +8,12 @@
 	background-size: cover;
 	height: 20%;
 	background-position: center;
+	cursor: pointer;
 }
 
 .modal-body > img{
 	width: 100%;
+	cursor: pointer;
 }
 
 .modal-dialog{
